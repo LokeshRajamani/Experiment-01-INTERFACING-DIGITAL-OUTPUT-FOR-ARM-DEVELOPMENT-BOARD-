@@ -79,6 +79,8 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+
+```
 #include "main.h"
 void ledblink();
 
@@ -167,8 +169,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif
-
-
+```
 ## Output  :
  ![ex1 pmc2](https://github.com/LokeshRajamani/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120544804/58c9e22d-62c4-4fd2-98fc-33846bae0e6e)
  ![ex1 pmc](https://github.com/LokeshRajamani/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120544804/483d7d6e-281e-4d0d-9ffc-08784da53faa)
